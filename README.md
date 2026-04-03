@@ -1,4 +1,4 @@
-# 👩‍💻 Raphaela Pupoh
+# 👩‍💻 Rafaella Pupoh
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 🧠 Foco em Inteligência Artificial aplicada à Medicina  
