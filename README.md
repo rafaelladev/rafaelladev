@@ -1,62 +1,112 @@
-# 👩‍💻 Rafaella Pupoh
+# 👩‍💻 Raphaela Pupoh
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🧠 Foco em Inteligência Artificial aplicada à Medicina  
-🚀 Criadora do projeto NeuroCode  
+### Desenvolvedora de Produtos Digitais | Prototipação • UX • Narrativa de Marca
 
 ---
 
-## 🧠 Sobre mim
+## ✨ Sobre mim
 
-Sou estudante de tecnologia com foco em Inteligência Artificial aplicada à saúde.
+Transformo ideias em **protótipos digitais claros, estratégicos e navegáveis**.
 
-Estou desenvolvendo projetos e estudos voltados para:
-- análise de dados clínicos  
-- apoio à decisão médica  
-- uso de IA para melhorar diagnósticos  
+Meu foco é estruturar produtos antes da execução — criando experiências que permitem validar conceitos de forma visual e funcional.
 
-Busco oportunidade de estágio para crescer na área de tecnologia e aplicar meus conhecimentos em projetos reais.
+Uno **experiência do usuário (UX), branding e narrativa** para desenvolver protótipos que vão além da interface: eles comunicam propósito, posicionamento e valor.
+
+---
+
+## 🎯 O que eu faço
+
+* 💡 Transformo ideias em produtos digitais estruturados
+* 🧠 Defino visão de produto e proposta de valor
+* 🔄 Crio fluxos de navegação (UX)
+* 🎨 Prototipo interfaces no Figma
+* 📖 Desenvolvo narrativa e identidade de marca
 
 ---
 
 ## 🚀 Projetos
 
-🔹 **NeuroCode – AI in Medical Research**  
-Estudos e projetos voltados à aplicação de IA na medicina e neurociência.
+### 🔹 MASC.ULIN
 
-🔹 **Medical AI Studies**  
-Repositório com anotações, aprendizados e experimentos.
+**Autocuidado masculino sem julgamento**
 
-🔹 **Medical AI Projects**  
-Projetos práticos com Python e análise de dados.
+Plataforma digital que permite aos usuários testar maquiagem virtualmente, com uma experiência privada e acessível.
 
----
+**Destaques:**
 
-## 💻 Tecnologias
-
-- Python (em aprendizado)  
-- Lógica de programação  
-- Machine Learning (básico)  
-- Análise de dados  
+* Teste virtual com IA
+* UX focada em segurança e conforto
+* Linguagem adaptada ao público masculino
 
 ---
 
-## 📚 Atualmente estudando
+### 🔹 Pia Marie
 
-- Inteligência Artificial na Medicina  
-- Machine Learning  
-- Neurociência  
-- Dados aplicados à saúde  
+**Elegância discreta como experiência digital**
+
+Ecossistema de marca que une conteúdo, produtos e experiência premium.
+
+**Inclui:**
+
+* Protótipo de revista de luxo
+* Sistema de produtos exclusivos
+* Experiência baseada em narrativa e pertencimento
 
 ---
 
-## 🎯 Objetivo
+### 🔹 Halloween App
 
-Atuar na área de tecnologia com foco em IA e saúde, desenvolvendo soluções que impactem positivamente a vida das pessoas.
+**Experiência interativa e criativa**
+
+Aplicativo conceitual com ideias temáticas, storytelling e interações imersivas.
+
+**Destaques:**
+
+* Narrativas criativas
+* Estrutura de experiência
+* Interface temática
+
+---
+
+## 🛠️ Ferramentas
+
+* Figma
+* Prototipação UX/UI
+* Estruturação de Produto
+* Branding & Storytelling
+
+---
+
+## 💼 Serviço
+
+### Prototipação de Produtos Digitais
+
+Transformo sua ideia em um **protótipo visual e navegável**, pronto para apresentação, validação ou desenvolvimento futuro.
+
+**Você recebe:**
+
+* Estrutura do produto
+* Fluxo de navegação
+* Telas organizadas no Figma
+* Conceito visual e estratégico
 
 ---
 
 ## 📫 Contato
 
-🔗 LinkedIn: (coloque seu link aqui)  
-📧 Email: (coloque seu email aqui)
+* LinkedIn: (coloque aqui)
+* Email: (coloque aqui)
+
+---
+
+## 🌱 Em evolução
+
+Atualmente aprofundando conhecimentos em:
+
+* Gestão de Produtos Digitais
+* Experiência do Usuário (UX)
+* Estratégia e validação de produtos
+
+---
+
+> 💡 “Transformo ideias em experiências digitais antes mesmo de existirem.”
